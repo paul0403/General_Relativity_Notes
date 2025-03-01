@@ -12,23 +12,30 @@ The `notes` directory contains all the notes. The `solutions` directory contains
 Below is the list of topics and their structure.
 
 ## 0. Prelude
-0. Prelude \n
+0. Prelude 
+
 0.5 The chain rule
 
 ## 1. Motivation
 1.1 Motivation : losing track of time
+
 1.2 Motivation : frame-invariant equations, and the Equivalence Principle
+
 1.99 Motivation summary
 
 
 ## 2. Geometry 1: straight lines (and a little bit of curvature)
 2.1 What is a vector; contravariant and covariant vectors
+
 2.2 What is a tensor; the metric tensor
+
 	2.21 An interlude on tensor products
+
 2.3 Everything is locally flat
+
 2.4 The covariant derivative
 
-*** The following is still in construction. The outline can change based on how it will actually go. ***
+***The following is still in construction. The outline can change based on how it will actually go.***
     
 2.5 The geodesic equation
 	2.51 A slight interlude regarding parametrization: affine parametrization
