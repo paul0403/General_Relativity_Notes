@@ -30,39 +30,39 @@ Below is the list of topics and their structure.
 
 ***The following is still in construction. The outline can change based on how it will actually go.***
     
-2.5 The geodesic equation
-	2.51 A slight interlude regarding parametrization: affine parametrization
-	2.52 The geodesic equation only works for an affine parametrization
-2.6 The Riemann curvature tensor
-2.99 Flashcard on important geometry equations
+- 2.5 The geodesic equation
+	- 2.51 A slight interlude regarding parametrization: affine parametrization
+	- 2.52 The geodesic equation only works for an affine parametrization
+- 2.6 The Riemann curvature tensor
+- 2.99 Flashcard on important geometry equations
 
 
 ## 3. Special relativity 1: particle kinematics (so four-vectors/velocities, Lorentz transforms, Minkowski metric)
-3.1 The Lorentz Transform; The Minkowski Metric
-	3.11 Quick results from the Lorentz Transform: time dilation, length contraction, velocity addition, the Doppler Effect
-    3.12 Quick results regarding 4-velocities
-3.2 Using the geodesic equation in Minkowski spacetime
-3.3 The Equivalence Principle revisited: using the geodesic equation to derive the fictitious gravity in an accelerating frame
+- 3.1 The Lorentz Transform; The Minkowski Metric
+	- 3.11 Quick results from the Lorentz Transform: time dilation, length contraction, velocity addition, the Doppler Effect
+    - 3.12 Quick results regarding 4-velocities
+- 3.2 Using the geodesic equation in Minkowski spacetime
+- 3.3 The Equivalence Principle revisited: using the geodesic equation to derive the fictitious gravity in an accelerating frame
 
 
 ## 4. Geometry 2: straight lines again
-4.1 Of course, a straight line is the shortest path between two points: the Euler-Lagrange equation
-4.2 The free particle Lagrangian in Minkowski Spacetime; why it has a minus sign: the "Twin Paradox"
-4.3 Applying the Euler-Lagrange equation to the Minkowski free particle Lagrangian; Lagrangians don't require an affine parametrization!
-4.9 The four principles of Laws Of Physics
-4.99 Lagrangian of a particle in a scalar field in Minkowski spacetime, and its Newtonian limit ("KE-PE")
+- 4.1 Of course, a straight line is the shortest path between two points: the Euler-Lagrange equation
+- 4.2 The free particle Lagrangian in Minkowski Spacetime; why it has a minus sign: the "Twin Paradox"
+- 4.3 Applying the Euler-Lagrange equation to the Minkowski free particle Lagrangian; Lagrangians don't require an affine parametrization!
+- 4.9 The four principles of Laws Of Physics
+- 4.99 Lagrangian of a particle in a scalar field in Minkowski spacetime, and its Newtonian limit ("KE-PE")
 
 
 ## 5. Lagrangian tricks
 
 Almost all courses in advanced classical mechanics start with telling you "there's this thing called the Euler-Lagrange equation, and the Lagrangian for a system is KE-PE". From there on we can apply this method to most classical systems. I will explicitly do a couple of examples just for illustrating the power of Lagrangian mechanics, but they are not necessary for general relativity. Skip it if you wish. 
 
-5.0 Examples of classical Lagrangian: Newton's second law, harmonic oscillator, inclined wedge sliding on a plane, the double pendulum
+- 5.0 Examples of classical Lagrangian: Newton's second law, harmonic oscillator, inclined wedge sliding on a plane, the double pendulum
 
 From here on it's necessary. 
 
-5.1 Symmetry and conserved quantities
-5.2 Conservation of energy: the Hamiltonian
+- 5.1 Symmetry and conserved quantities
+- 5.2 Conservation of energy: the Hamiltonian
 
 
 ## 6. Special relativity 2: particle dynamics (so four-momentum, energy)
@@ -71,42 +71,42 @@ From here on it's necessary.
 
 
 ## 7. Lagrangian for fields
-7.1 The Euler-Lagrange equation for fields
-7.2 The free field Lagrangian in Minkowski spacetime; the wave equation
-7.3 Particle-field interactions: the Poisson equation
+- 7.1 The Euler-Lagrange equation for fields
+- 7.2 The free field Lagrangian in Minkowski spacetime; the wave equation
+- 7.3 Particle-field interactions: the Poisson equation
 
 
 ## 8. Special relativity 3: electromagnetism
-8.1 The magnetic vector potential and gauge invariance
-8.2 The Lorentz Force Law with a classical Lagrangian
-8.3 The Lorentz Force Law with a relativistic Lagrangian
-8.4 What is A0? The electromagnetic field strength tensor
-8.5 The electromagnetic source 4-vector
-8.6 Maxwell's equations
+- 8.1 The magnetic vector potential and gauge invariance
+- 8.2 The Lorentz Force Law with a classical Lagrangian
+- 8.3 The Lorentz Force Law with a relativistic Lagrangian
+- 8.4 What is A0? The electromagnetic field strength tensor
+- 8.5 The electromagnetic source 4-vector
+- 8.6 Maxwell's equations
 
 
 ## 9. Lagrangian for fields: field momentum and field energy 
 
 
 ## 10. The Schwarzschild metric (so black holes)
-10.0 A reminder about the equivalence principle
-10.1 Postulating the Schwarzschild metric
-10.2 Watching your friend falling into a black hole
-10.3 The photon sphere
-10.4 Kruskal coordinates
-10.5 Penrose diagrams
+- 10.0 A reminder about the equivalence principle
+- 10.1 Postulating the Schwarzschild metric
+- 10.2 Watching your friend falling into a black hole
+- 10.3 The photon sphere
+- 10.4 Kruskal coordinates
+- 10.5 Penrose diagrams
 
 
 ## 11. The Einstein field equations
-11.0 A reminder about the Riemann curvature tensor
-11.1 The Einstein field equation
-11.2 The Einstein field equation from the Einstein-Hilbert action
-11.99 Solving the Einstein field equations for the Schwarzschild metric
+- 11.0 A reminder about the Riemann curvature tensor
+- 11.1 The Einstein field equation
+- 11.2 The Einstein field equation from the Einstein-Hilbert action
+- 11.99 Solving the Einstein field equations for the Schwarzschild metric
 
 
 
 # Computational Files
 A list of computational files are available to compute stuff, or to explicitly illustrate some of the phenomena we encounter.
 
-connection.py: a python script calculating the connection coefficients from a given metric
-stuck_on_horizon.py: a python script showing that it takes an infinite amount of coordinate time (or lab time) for an object to reach the horizon
+- connection.py: a python script calculating the connection coefficients from a given metric
+- stuck_on_horizon.py: a python script showing that it takes an infinite amount of coordinate time (or lab time) for an object to reach the horizon
