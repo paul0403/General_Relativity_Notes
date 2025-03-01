@@ -24,23 +24,23 @@ Below is the list of topics and their structure.
 ## 2. Geometry 1: straight lines (and a little bit of curvature)
 - 2.1 What is a vector; contravariant and covariant vectors
 - 2.2 What is a tensor; the metric tensor
-	- 2.21 An interlude on tensor products
+	- 2.2.1 An interlude on tensor products
 - 2.3 Everything is locally flat
 - 2.4 The covariant derivative
 
 ***The following is still in construction. The outline can change based on how it will actually go.***
     
 - 2.5 The geodesic equation
-	- 2.51 A slight interlude regarding parametrization: affine parametrization
-	- 2.52 The geodesic equation only works for an affine parametrization
+	- 2.5.1 A slight interlude regarding parametrization: affine parametrization
+	- 2.5.2 The geodesic equation only works for an affine parametrization
 - 2.6 The Riemann curvature tensor
 - 2.99 Flashcard on important geometry equations
 
 
 ## 3. Special relativity 1: particle kinematics (so four-vectors/velocities, Lorentz transforms, Minkowski metric)
 - 3.1 The Lorentz Transform; The Minkowski Metric
-	- 3.11 Quick results from the Lorentz Transform: time dilation, length contraction, velocity addition, the Doppler Effect
-    - 3.12 Quick results regarding 4-velocities
+	- 3.1.1 Quick results from the Lorentz Transform: time dilation, length contraction, velocity addition, the Doppler Effect
+    - 3.1.2 Quick results regarding 4-velocities
 - 3.2 Using the geodesic equation in Minkowski spacetime
 - 3.3 The Equivalence Principle revisited: using the geodesic equation to derive the fictitious gravity in an accelerating frame
 
