@@ -12,21 +12,21 @@ The `notes` directory contains all the notes. The `solutions` directory contains
 Below is the list of topics and their structure.
 
 ## 0. Prelude
-- 0.0 Prelude 
-- 0.5 The chain rule
+- [0.0 Prelude](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/0.%20Prelude/0.0%20Prelude) 
+- [0.5 The chain rule](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/0.%20Prelude/0.5%20Chain%20Rule)
 
 ## 1. Motivation
-- 1.1 Motivation : losing track of time
-- 1.2 Motivation : frame-invariant equations, and the Equivalence Principle
-- 1.99 Motivation summary
+- [1.1 Motivation : losing track of time](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/1.%20Motivation/1.1%20Losing%20track%20of%20time)
+- [1.2 Motivation : frame-invariant equations, and the Equivalence Principle](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/1.%20Motivation/1.2%20Frame-invariant%20equations%2C%20and%20the%20Equivalence%20Principle)
+- [1.99 Motivation summary](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/1.%20Motivation/1.99%20Motivation%20summary)
 
 
 ## 2. Geometry 1: straight lines (and a little bit of curvature)
-- 2.1 What is a vector; contravariant and covariant vectors
-- 2.2 What is a tensor; the metric tensor
-	- 2.2.1 An interlude on tensor products
-- 2.3 Everything is locally flat
-- 2.4 The covariant derivative
+- [2.1 What is a vector; contravariant and covariant vectors](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/2.%20Geometry%201%20-%20straight%20lines%20(and%20a%20little%20bit%20of%20curvature)/2.1%20What%20is%20a%20vector%3B%20contravariant%20and%20covariant%20vectors)
+- [2.2 What is a tensor; the metric tensor](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/2.%20Geometry%201%20-%20straight%20lines%20(and%20a%20little%20bit%20of%20curvature)/2.2%20What%20is%20a%20tensor%3B%20the%20metric%20tensor)
+	- [2.2.1 An interlude on tensor products](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/2.%20Geometry%201%20-%20straight%20lines%20(and%20a%20little%20bit%20of%20curvature)/2.2.1%20An%20interlude%20on%20tensor%20products)
+- [2.3 Everything is locally flat](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/2.%20Geometry%201%20-%20straight%20lines%20(and%20a%20little%20bit%20of%20curvature)/2.3%20Everything%20is%20locally%20flat)
+- [2.4 The covariant derivative](https://github.com/paul0403/General_Relativity_Notes/tree/master/notes/2.%20Geometry%201%20-%20straight%20lines%20(and%20a%20little%20bit%20of%20curvature)/2.4%20The%20covariant%20derivative)
 
 ***The following is still in construction. The outline can change based on how it will actually go.***
     
