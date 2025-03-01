@@ -12,7 +12,7 @@ The `notes` directory contains all the notes. The `solutions` directory contains
 Below is the list of topics and their structure.
 
 ## 0. Prelude
-0. Prelude 
+0.0 Prelude 
 
 0.5 The chain rule
 
@@ -29,7 +29,7 @@ Below is the list of topics and their structure.
 
 2.2 What is a tensor; the metric tensor
 
-	2.21 An interlude on tensor products
+   2.21 An interlude on tensor products
 
 2.3 Everything is locally flat
 
