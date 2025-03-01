@@ -12,7 +12,7 @@ The `notes` directory contains all the notes. The `solutions` directory contains
 Below is the list of topics and their structure.
 
 ## 0. Prelude
-0. Prelude
+0. Prelude \n
 0.5 The chain rule
 
 ## 1. Motivation
